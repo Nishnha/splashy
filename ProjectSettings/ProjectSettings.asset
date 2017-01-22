@@ -453,6 +453,7 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   cloudProjectId: d0aa724b-8522-42b9-9617-818839110b94
   projectName: splashy
